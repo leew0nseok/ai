@@ -1,0 +1,938 @@
+Rank,Name,Symbol,marketcap,price (USD),country
+1,Apple,AAPL,3.06867E+12,195.1,United States
+2,Microsoft,MSFT,2.74527E+12,355.08,United States
+3,Alphabet,GOOG,1.54457E+12,122.78,United States
+4,Amazon,AMZN,1.38885E+12,135.36,United States
+5,NVIDIA,NVDA,1.1628E+12,470.77,United States
+6,Tesla,TSLA,9.32559E+11,291.26,United States
+7,Meta Platforms,META,8.13577E+11,316.01,United States
+8,TSMC,TSM,5.34511E+11,103.06,Taiwan
+9,Tencent,TCEHY,4.08051E+11,42.7,China
+10,Broadcom,AVGO,3.71982E+11,901.37,United States
+11,Samsung,005930.KS,3.66324E+11,55.05,South Korea
+12,Oracle,ORCL,3.22156E+11,118.69,United States
+13,ASML,ASML,2.8244E+11,715.78,Netherlands
+14,Adobe,ADBE,2.44993E+11,527.17,United States
+15,Alibaba,BABA,2.35981E+11,92.09,China
+16,Salesforce,CRM,2.28276E+11,234.37,United States
+17,Netflix,NFLX,2.23984E+11,477.59,United States
+18,Cisco,CSCO,2.13655E+11,52.43,United States
+19,AMD,AMD,1.87494E+11,116.43,United States
+20,SAP,SAP,1.66898E+11,143,Germany
+21,Texas Instruments,TXN,1.66709E+11,183.67,United States
+22,Intel,INTC,1.44276E+11,34.46,United States
+23,Intuit,INTU,1.40187E+11,500.56,United States
+24,QUALCOMM,QCOM,1.38604E+11,124.42,United States
+25,ServiceNow,NOW,1.23892E+11,603.25,United States
+26,IBM,IBM,1.23022E+11,135.48,United States
+27,Applied Materials,AMAT,1.19059E+11,141.78,United States
+28,Sony,SONY,1.17735E+11,94.57,Japan
+29,Keyence,6861.T,1.15181E+11,474.92,Japan
+30,Booking Holdings,BKNG,1.09309E+11,2927.88,United States
+31,Meituan,3690.HK,1.02304E+11,16.39,China
+32,Pinduoduo,PDD,99949830144,75.23,China
+33,Uber,UBER,99344039936,47.12,United States
+34,Analog Devices,ADI,98242715648,195.79,United States
+35,Automatic Data Processing,ADP,98046484480,237.33,United States
+36,Schneider Electric,SU.PA,97454087890,173.76,France
+37,Airbnb,ABNB,92462465024,145.535,United States
+38,Lam Research,LRCX,85992374272,640.11,United States
+39,Shopify,SHOP,85458755584,68.23,Canada
+40,PayPal,PYPL,83799572480,74.22,United States
+41,Fiserv,FI,78787272704,127.63,United States
+42,Equinix,EQIX,76009185280,812.73,United States
+43,Palo Alto Networks,PANW,75240333312,246,United States
+44,Activision Blizzard,ATVI,72483856384,92.2,United States
+45,Vmware,VMW,71736041472,166.69,United States
+46,Micron Technology,MU,71150682112,64.96,United States
+47,Synopsys,SNPS,69587329024,457.33,United States
+48,Tokyo Electron,8035.T,68043213111,145.43,Japan
+49,NetEase,NTES,66372014080,102.91,China
+50,Cadence Design Systems,CDNS,66123145216,242.49,United States
+51,KLA,KLAC,64564482048,470.59,United States
+52,SK Hynix,000660.KS,63737725282,90,South Korea
+53,MercadoLibre,MELI,63081140224,1225.75,Argentina
+54,Fortinet,FTNT,61787078656,78.69,United States
+55,Snowflake,SNOW,61747245056,185.45,United States
+56,Workday,WDAY,60468477952,231.68,United States
+57,Dassault Systèmes,DSY.PA,60093761796,45.53,France
+58,NXP Semiconductors,NXPI,57216188416,220.28,Netherlands
+59,Jingdong Mall,JD,57036263424,36.41,China
+60,Marvell Technology Group,MRVL,56441798656,65.63,United States
+61,Arista Networks,ANET,55323078656,176.26,United States
+62,Infineon,IFX.DE,53628763439,41.17,Germany
+63,Nintendo,7974.T,53432463550,45.74,Japan
+64,Adyen,ADYEN.AS,53344550182,1720.2,Netherlands
+65,Roper Technologies,ROP,51444498432,482.63,United States
+66,Microchip Technology,MCHP,50560110592,91.73,United States
+67,Atlassian,TEAM,50352181248,188.58,Australia
+68,Baidu,BIDU,50237087744,143.7,China
+69,Block,SQ,47884496896,78.19,United States
+70,Foxconn (Hon Hai Precision Industry),2317.TW,47850221875,3.45,Taiwan
+71,Autodesk,ADSK,47589892096,219.07,United States
+72,STMicroelectronics,STM,47171694592,52.11,Switzerland
+73,TE Connectivity,TEL,45089804288,143.09,Switzerland
+74,Constellation Software,CSU.TO,44918110787,2119.63,Canada
+75,ON Semiconductor,ON,44012179456,101.91,United States
+76,The Trade Desk,TTD,43170340864,88.31,United States
+77,IQVIA,IQV,42374307840,225.46,United States
+78,Dell,DELL,38861258752,54.3,United States
+79,Palantir,PLTR,38237839360,18.05,United States
+80,Datadog,DDOG,37431750656,115.22,United States
+81,CoStar Group,CSGP,37426257920,91.61,United States
+82,CrowdStrike,CRWD,37424496640,157.61,United States
+83,Electronic Arts,EA,37236486144,136.84,United States
+84,Murata Manufacturing (Murata Seisakusho),6981.T,37039956558,58.82,Japan
+85,GlobalFoundries,GFS,36842700800,66.73,United States
+86,Fidelity National Information Services,FIS,36037943296,60.83,United States
+87,Sea (Garena),SE,35501932544,62.42,Singapore
+88,MediaTek,2454.TW,35106504744,22.05,Taiwan
+89,Renesas Electronics,6723.T,35057466039,19.51,Japan
+90,Mobileye,MBLY,35038240768,43.49,Israel
+91,Spotify,SPOT,34863960064,179.84,Sweden
+92,Xiaomi,XIACF,34620743680,1.405,China
+93,Amadeus IT Group,AMS.MC,33107880084,73.73,Spain
+94,Veeva Systems,VEEV,33033381888,206.17,United States
+95,DoorDash,DASH,32962207744,85.1,United States
+96,HP,HPQ,32467529728,32.93,United States
+97,Coupang,CPNG,32001910784,17.94,South Korea
+98,Kuaishou Technology,1024.HK,31928823034,7.37,China
+99,MongoDB,MDB,31688759296,431.21,United States
+100,Wolters Kluwer,WKL.AS,31099631797,124.27,Netherlands
+101,Keysight,KEYS,30782750720,172.58,United States
+102,Ansys,ANSS,30228326400,348.81,United States
+103,Delta Electronics,2308.TW,29681667174,11.43,Taiwan
+104,Global Payments,GPN,29566633984,112.87,United States
+105,HubSpot,HUBS,28445329408,568.62,United States
+106,SMIC,0981.HK,28265162661,2.48,China
+107,Panasonic,6752.T,28057680708,12.02,Japan
+108,Advantest,6857.T,27425865324,148.88,Japan
+109,Monolithic Power Systems,MPWR,27244988416,574.51,United States
+110,Symbotic,SYM,27050901504,48.7,United States
+111,Canon,7751.T,26579625621,26.6,Japan
+112,eBay,EBAY,26218153984,49.03,United States
+113,Align Technology,ALGN,26213193728,342.58,United States
+114,Coinbase,COIN,25837004800,110.15,United States
+115,Take 2 Interactive,TTWO,25740460032,152.01,United States
+116,Enphase Energy,ENPH,25420292096,185.49,United States
+117,Cloudflare,NET,24723232768,72.7,United States
+118,Zscaler,ZS,23956953088,161.04,United States
+119,Naver,035420.KS,23864494392,158.5,South Korea
+120,Trip.com,TCOM,23746013184,36.75,China
+121,Nokia,NOK,22403352576,3.94,Finland
+122,Hewlett Packard Enterprise,HPE,22304550912,17.27,United States
+123,ASM International,ASM.AS,22291399080,453.33,Netherlands
+124,Zoom,ZM,21825396736,73.92,United States
+125,Paycom,PAYC,21431343104,365.47,United States
+126,JD Health,6618.HK,21163503139,6.66,China
+127,FICO,FICO,21115420672,844.85,United States
+128,Snap,SNAP,20843327488,13.11,United States
+129,Garmin,GRMN,20598108160,107.68,Switzerland
+130,United Microelectronics,UMC,19129819136,7.65,Taiwan
+131,Unity Software,U,18364911616,48.5,United States
+132,WiseTech Global,WTC.AX,18289759455,54.69,Australia
+133,Skyworks Solutions,SWKS,18242252800,114.5,United States
+134,Splunk,SPLK,17995751424,108.67,United States
+135,Disco Corp.,6146.T,17896349008,165.24,Japan
+136,Expedia Group,EXPE,17621200896,119.1,United States
+137,Tyler Technologies,TYL,17509683200,417.64,United States
+138,PTC,PTC,17355284480,146.64,United States
+139,Kakao,035720.KS,17340082733,38.97,South Korea
+140,Ericsson,ERIC,17065801728,5.08,Sweden
+141,ASE Group,ASX,16922467328,7.87,Taiwan
+142,NetApp,NTAP,16847902720,79.31,United States
+143,Supermicro,SMCI,16801971200,303.67,United States
+144,Kaspi.kz Joint Stock Company,KKS.F,16736367586,79.8,Kazakhstan
+145,Nexon,3659.T,16527809533,19.36,Japan
+146,FactSet,FDS,16383460352,425.18,United States
+147,Zebra Technologies,ZBRA,16373864448,318.37,United States
+148,Chewy,CHWY,16332283904,38.04,United States
+149,Entegris,ENTG,16231840768,108.44,United States
+150,LG Electronics,066570.KS,15984547509,93.86,South Korea
+151,Dynatrace,DT,15859955712,54.1,United States
+152,Bentley Systems,BSY,15824485376,53.94,United States
+153,SS&C Technologies,SSNC,15525345280,62.32,United States
+154,Check Point Software,CHKP,15375417344,127.32,Israel
+155,DiDi,DIDIY,15307488256,3.15,China
+156,Samsara,IOT,15121272832,28.61,United States
+157,"M3, Inc",2413.T,14921415809,21.98,Japan
+158,Bandai Namco,7832.T,14901127714,22.58,Japan
+159,EPAM Systems,EPAM,14633320448,249.81,United States
+160,Akamai,AKAM,14511264768,93.98,United States
+161,NICE,NICE,14151424000,223,Israel
+162,Trimble,TRMB,13296581632,53.67,United States
+163,Grab Holdings,GRAB,13281840128,3.51,Singapore
+164,Match Group,MTCH,13235250176,47.53,United States
+165,Lenovo,0992.HK,13075817642,1.08,Hong Kong
+166,Xero,XRO.AX,13061331989,84.77,New Zealand
+167,Lasertec,6920.T,13015500609,144.33,Japan
+168,Manhattan Associates,MANH,12963666944,207.85,United States
+169,Paylocity,PCTY,12922557440,224.96,United States
+170,NEC Corp,6701.T,12909110977,48.47,Japan
+171,Zillow,Z,12889684992,54.64,United States
+172,Lattice Semiconductor,LSCC,12839898112,93.28,United States
+173,Jack Henry &amp; Associates,JKHY,12720836608,172.76,United States
+174,Sage Group,SGE.L,12487396822,12.18,United Kingdom
+175,Leidos,LDOS,12422825984,90.55,United States
+176,Delivery Hero,DHER.F,12401993686,46,Germany
+177,Seagate Technology,STX,12395928576,59.86,Ireland
+178,Toast,TOST,12389004288,22.56,United States
+179,Gen Digital,GEN,12379696128,19.32,United States
+180,Twilio,TWLO,12237410304,67.61,United States
+181,GoDaddy,GDDY,11992309760,76.93,United States
+182,ZoomInfo,ZI,11981433856,28.85,United States
+183,Robinhood,HOOD,11941627904,13.12,United States
+184,Pure Storage,PSTG,11898531840,38.59,United States
+185,Etsy,ETSY,11852893184,96.09,United States
+186,Confluent,CFLT,11759755264,39.27,United States
+187,AMEC,688012.SS,11655534345,18.85,China
+188,AspenTech,AZPN,11588287488,178.64,United States
+189,Amdocs,DOX,11542220800,95.99,United States
+190,OpenText,OTEX,11493125120,42.11,Canada
+191,Okta,OKTA,11423654912,70.37,United States
+192,Ceridian,CDAY,11295038464,71.58,United States
+193,DocuSign,DOCU,11188928512,54.18,United States
+194,Qualtrics,XM,10999950336,18.14,United States
+195,Roku,ROKU,10882679808,77.3,United States
+196,Advantech,2395.TW,10851472426,12.67,Taiwan
+197,Entain,ENT.L,10728182005,16.56,Isle of Man
+198,Wiwynn,6669.TW,10590157934,60.57,Taiwan
+199,Qorvo,QRVO,10384829440,105.84,United States
+200,Procore,PCOR,10313097216,72.51,United States
+201,UiPath,PATH,10257788928,18.49,United States
+202,Allegro MicroSystems,ALGM,10170279936,52.17,United States
+203,Logitech,LOGI,10063989760,63.4,Switzerland
+204,Dropbox,DBX,9903394816,28.1,United States
+205,AppLovin,APP,9887363072,28.57,United States
+206,Juniper Networks,JNPR,9718509568,30.22,United States
+207,Unimicron,3037.TW,9521923823,6.25,Taiwan
+208,SoFi,SOFI,9355805696,9.85,United States
+209,Oracle Corp Japan,4716.T,9355318472,73,Japan
+210,Vipshop,VIPS,9301768192,16.52,China
+211,Rohm,6963.T,9116049513,92.89,Japan
+212,F5 Networks,FFIV,9112527872,150.7,United States
+213,BE Semiconductor,BESI.AS,9005484874,117.61,Netherlands
+214,Yandex,YNDX.ME,8955784436,24.77,Netherlands
+215,Zalando,ZAL.DE,8861767009,32.75,Germany
+216,monday.com,MNDY,8799056896,182.26,Israel
+217,Yonyou,600588.SS,8773057424,2.56,China
+218,Wolfspeed,WOLF,8555616768,67.94,United States
+219,Allegro.eu,ALE.WA,8502431911,8.05,Poland
+220,Nemetschek,NEM.F,8448303199,72.52,Germany
+221,Adevinta,ADE.OL,8386477022,6.86,Norway
+222,Wayfair,W,8116382720,71.42,United States
+223,Rakuten,4755.T,8112488714,3.8,Japan
+224,Zomato,ZOMATO.NS,8093852004,0.94,India
+225,Globant,GLOB,8060868608,189.68,Luxembourg
+226,GitLab,GTLB,7973104128,52.18,United States
+227,GoTo,GOTO.JK,7956725214,0.01,Indonesia
+228,Novatek Microelectronics,3034.TW,7935591125,13.04,Taiwan
+229,Global Unichip Corp.,3443.TW,7774403059,58.01,Taiwan
+230,Lufax,LU,7624431616,1.59,China
+231,National Instruments,NATI,7471338496,56.28,United States
+232,Ocado,OCDO.L,7301359892,8.83,United Kingdom
+233,Konami Holdings,9766.T,7283877411,53.73,Japan
+234,GlobalWafers,6488.TWO,7234010166,16.62,Taiwan
+235,Global-e,GLBE,7204180480,43.86,Israel
+236,ASUS,2357.TW,7134161816,9.6,Taiwan
+237,Genpact,G,7122886144,38.65,Bermuda
+238,SPS Commerce,SPSC,7040236032,192.71,United States
+239,Nutanix,NTNX,6950175232,29.48,United States
+240,Nanya Technology,2408.TW,6941527006,2.24,Taiwan
+241,Descartes Systems,DSGX,6910667776,80.86,Canada
+242,Coherent,COHR,6881797800,49.62,United States
+243,DoubleVerify,DV,6874345984,41.34,United States
+244,CyberArk,CYBR,6815228928,163.18,Israel
+245,Doximity,DOCS,6782937088,34.61,United States
+246,CCC Intelligent Solutions,CCCS,6766941696,10.77,United States
+247,Realtek,2379.TW,6753805930,13.17,Taiwan
+248,Soitec,SOI.PA,6719472784,188.83,France
+249,Elastic NV,ESTC,6634268160,68.12,United States
+250,Clarivate,CLVT,6611994112,9.78,United Kingdom
+251,Futu Holdings,FUTU,6572431360,47.07,Hong Kong
+252,Krafton,259960.KS,6527869429,141.26,South Korea
+253,Bilibili,BILI,6474698752,15.75,China
+254,Paytm,PAYTM.NS,6443142606,10.16,India
+255,MicroStrategy,MSTR,6360527360,453.1,United States
+256,Five9,FIVN,6272215040,87.94,United States
+257,Trend Micro,4704.T,6266977108,46.16,Japan
+258,Bumble,BMBL,6215647232,20.14,United States
+259,Topicus,TOI.V,6198546620,75.69,Canada
+260,Monotaro,3064.T,6091617745,12.26,Japan
+261,Axcelis Technologies,ACLS,6057441280,185.18,United States
+262,Temenos,TEMN.SW,5993273463,83.13,Switzerland
+263,Carsales,CAR.AX,5976555675,15.86,Australia
+264,Altair Engineering,ALTR,5967110144,74.22,United States
+265,ZOZO,3092.T,5938512339,19.8,Japan
+266,Smartsheet,SMAR,5814929920,43.3,United States
+267,Kingsoft,3888.HK,5801447887,4.26,China
+268,Alight,ALIT,5735476224,9.98,United States
+269,Teradata,TDC,5723768832,55.9,United States
+270,HashiCorp,HCP,5719699456,29.31,United States
+271,Tata Elxsi,TATAELXSI.NS,5680274603,91.21,India
+272,Workiva,WK,5579097088,103.53,United States
+273,Nan Ya PCB,8046.TW,5524816840,8.55,Taiwan
+274,Onto Innovation,ONTO,5513710592,112.65,United States
+275,Informatica,INFA,5433354240,19,United States
+276,Power Integrations,POWI,5399625216,94.15,United States
+277,Silicon Labs,SLAB,5367742976,163.07,United States
+278,Freshworks,FRSH,5275816448,18.08,United States
+279,Nuvei,NVEI,5242549760,36.42,Canada
+280,Wix.com,WIX,5242072576,92.33,Israel
+281,Kakao Pay,377300.KS,5197299470,38.81,South Korea
+282,Asana,ASAN,5152118272,23.76,United States
+283,New Relic,NEWR,5147128832,72.57,United States
+284,Nykaa,NYKAA.NS,5041570237,1.77,India
+285,iQIYI,IQ,5032210944,5.26,China
+286,Alchip Technologies,3661.TW,5006882167,67.76,Taiwan
+287,Clearwater Analytics,CWAN,4966357504,17.05,United States
+288,Qualys,QLYS,4961836544,132.82,United States
+289,Tenable,TENB,4943560704,43.05,United States
+290,C3 AI,AI,4938706944,40.74,United States
+291,Upstart,UPST,4922886656,58.4,United States
+292,eMemory Technology,3529.TWO,4901496375,65.68,Taiwan
+293,Sega Sammy Holdings,6460.T,4857838128,22.01,Japan
+294,Pegasystems,PEGA,4737084416,57.1,United States
+295,Lyft,LYFT,4721881600,12.18,United States
+296,PowerSchool,PWSC,4704632832,23.45,United States
+297,Paycor,PYCR,4632278528,26.24,United States
+298,Technoprobe,TPRO.MI,4605480013,8.82,Italy
+299,Nikon,NINOY,4591160832,13.18,Japan
+300,Box,BOX,4586277376,31.27,United States
+301,HelloFresh,HFG.DE,4548297193,26.42,Germany
+302,SentinelOne,S,4529338880,15.51,United States
+303,Playtika,PLTK,4520459776,12.36,Israel
+304,NCsoft,036570.KS,4490529555,221.13,South Korea
+305,momo.com Inc.,8454.TW,4483514264,20.52,Taiwan
+306,Schibsted,SCHA.OL,4478925527,19.7,Norway
+307,Braze,BRZE,4476284416,44.94,United States
+308,NEXTDC,NXT.AX,4465538896,8.65,Australia
+309,DigitalOcean,DOCN,4421139968,49.9,United States
+310,dLocal,DLO,4365446144,14.45,Uruguay
+311,Cirrus Logic,CRUS,4340500992,79.34,United States
+312,Squarespace,SQSP,4267456256,31.35,United States
+313,RingCentral,RNG,4262132224,42.9,United States
+314,Melexis NV,MELE.BR,4249004029,105.17,Belgium
+315,Blackbaud,BLKB,4235849984,78.47,United States
+316,SimCorp,SIM.CO,4226608685,107.2,Denmark
+317,Vanguard International Semiconductor,5347.TWO,4206677233,2.57,Taiwan
+318,PB Fintech,POLICYBZR.NS,4205052782,9.34,India
+319,Silergy,6415.TW,4200657215,11,China
+320,Teladoc Health,TDOC,4198919424,25.26,United States
+321,Cvent,CVT,4188611072,8.52,United States
+322,Tower Semiconductor,TSEM,4145029632,37.64,Israel
+323,ASM Pacific Technology,0522.HK,4123311620,10,Hong Kong
+324,Vishay Intertechnology,VSH,4108047616,29.41,United States
+325,Mercari,4385.T,4053851378,24.95,Japan
+326,Perfect World Entertainment,002624.SZ,4039191971,2.08,China
+327,Maxar Technologies,MAXR,4003368448,52.99,United States
+328,Kinaxis,KXS.TO,4001719844,141.52,Canada
+329,Schrodinger,SDGR,3995504384,55.37,United States
+330,CD Projekt,CDR.WA,3959615217,39.63,Poland
+331,Aixtron,AIXA.F,3944091263,34.53,Germany
+332,Hisense Visual Technology,600060.SS,3927868874,3,China
+333,Softcat,SCT.L,3912207035,19.61,United Kingdom
+334,Just Eat Takeaway,TKWY.AS,3910721937,17.78,Netherlands
+335,Sprinklr,CXM,3891389184,14.52,United States
+336,Powerchip Semiconductor Manufacturing,6770.TW,3866045190,0.95,Taiwan
+337,Ubisoft,UBI.PA,3820910036,30.52,France
+338,Instructure Holdings,INST,3802193664,26.5,United States
+339,Jubilant FoodWorks,JUBLFOOD.NS,3801777292,5.76,India
+340,NCR Corporation,NCR,3776760064,26.9,United States
+341,Appian,APPN,3746573056,51.35,United States
+342,Darktrace,DARK.L,3745634385,5.08,United Kingdom
+343,Lumentum,LITE,3639726080,52.98,United States
+344,CyberAgent,4751.T,3631321844,7.18,Japan
+345,Autohome,ATHM,3605475840,29.26,China
+346,Synaptics,SYNA,3594303488,90.94,United States
+347,Flywire,FLYW,3583517184,32.49,United States
+348,TOTVS,TOTS3.SA,3576148776,5.92,Brazil
+349,KPIT Technologies,KPITTECH.NS,3547002211,12.94,India
+350,BlackLine,BL,3518293760,57.89,United States
+351,Sanmina,SANM,3509329920,60.33,United States
+352,nCino,NCNO,3493231104,31.07,United States
+353,Envestnet,ENV,3485504768,63.05,United States
+354,Aurora Innovation,AUR,3453206528,2.88,United States
+355,LifeStance Health Group,LFST,3432328960,9.11,United States
+356,Endava,DAVA,3424873984,60.18,United Kingdom
+357,Sino-American Silicon Products,5483.TWO,3410228428,5.82,Taiwan
+358,Nova Measuring Instruments,NVMI,3399005696,118.33,Israel
+359,Commvault,CVLT,3392674816,76.65,United States
+360,Acer,2353.TW,3390949237,1.13,Taiwan
+361,Riot Blockchain,RIOT,3372663296,18.93,United States
+362,Remitly,RELY,3368555776,18.93,United States
+363,Ambarella,AMBA,3347430912,83.32,United States
+364,Weibo,WB,3306579968,13.79,China
+365,TietoEVRY,TIETO.HE,3289971672,27.54,Finland
+366,Kulicke and Soffa Industries,KLIC,3255202560,57.53,Singapore
+367,Embracer Group,EMBRAC-B.ST,3247816463,2.55,Sweden
+368,Calix,CALX,3245298688,48.99,United States
+369,SoftwareONE,SWON.SW,3193827654,20.6,Switzerland
+370,EngageSmart,ESMT,3193147648,19.15,United States
+371,Certara,CERT,3129510656,19.58,United States
+372,IonQ,IONQ,3119954688,15.52,United States
+373,Sprout Social,SPT,3090083584,55.78,United States
+374,MakeMyTrip,MMYT,3060315136,29.07,India
+375,Omnicell,OMCL,3039333888,67.42,United States
+376,Jfrog,FROG,3036143104,29.8,United States
+377,Luminar Technologies,LAZR,2999854592,7.75,United States
+378,EVO Payments,EVOP,2995331584,33.99,United States
+379,Marathon Digital Holdings,MARA,2989754624,17.59,United States
+380,Yelp,YELP,2985512704,43.37,United States
+381,Vertex,VERX,2984590848,19.69,United States
+382,TeamViewer,TMV.DE,2961859980,16.57,Germany
+383,Varonis,VRNS,2950913280,26.88,United States
+384,360 DigiTech,QFIN,2935433728,18.18,China
+385,Alteryx,AYX,2935011584,41.4,United States
+386,Bayanat AI,BAYANAT.AE,2891841848,1.12,United Arab Emirates
+387,Chindata,CD,2870478080,7.83,China
+388,SiTime,SITM,2844294912,129.57,United States
+389,LegalZoom,LZ,2830771968,14.39,United States
+390,Jamf,JAMF,2819671552,22.27,United States
+391,Telus International,TIXT,2808062464,10.4,Canada
+392,BlackBerry,BB,2803070976,4.83,Canada
+393,Marqeta,MQ,2794914560,5.11,United States
+394,FormFactor,FORM,2793387520,36.21,United States
+395,Lightspeed POS,LSPD,2791392512,18.21,Canada
+396,CompuGroup Medical,COP.DE,2777029389,53.16,Germany
+397,Intapp,INTA,2776230656,41.19,United States
+398,MaxLinear,MXL,2772944640,34.67,United States
+399,Paradox Interactive,PDX.ST,2756068112,26.09,Sweden
+400,Rapid7,RPD,2723086592,45.12,United States
+401,Nordic Semiconductor,NOD.OL,2671231631,13.69,Norway
+402,ACI Worldwide,ACIW,2635474176,24.33,United States
+403,N-Able,NABL,2592206848,14.24,United States
+404,InterDigital,IDCC,2569342464,96.08,United States
+405,Software AG,SOW.F,2556886578,34.39,Germany
+406,Fastly,FSLY,2556293888,19.21,United States
+407,Verint Systems,VRNT,2548312832,39.64,United States
+408,United Internet,UTDI.F,2537715179,14.62,Germany
+409,Duck Creek Technologies,DCT,2523732992,18.99,United States
+410,Progress Software,PRGS,2515661568,58.01,United States
+411,AvidXchange,AVDX,2491762688,12.01,United States
+412,Siltronic,WAF.F,2478273303,82.17,Germany
+413,Xerox,XRX,2475227648,15.77,United States
+414,VisEra Technologies,6789.TW,2452656495,7.77,Taiwan
+415,WIN Semiconductors,3105.TWO,2405208563,5.67,Taiwan
+416,Credo Technology,CRDO,2400172032,16.1,United States
+417,Playtech,PTEC.L,2381713141,7.59,Isle of Man
+418,Impinj,PI,2355427072,88.34,United States
+419,JOYY,YY,2297027072,33.22,China
+420,Rumble,RUM,2294448640,8.22,United States
+421,PagerDuty,PD,2284847360,24.78,United States
+422,EverCommerce,EVCM,2211995136,11.77,United States
+423,Kainos Group,KNOS.L,2201050827,17.64,United Kingdom
+424,Atoss,AOF.F,2198602109,253.71,Germany
+425,NETSCOUT,NTCT,2178580992,30.29,United States
+426,IndiaMART,INDIAMART.NS,2155169562,35.18,India
+427,SUSE S.A.,SUSE.DE,2110614613,12.15,Luxembourg
+428,Coursera,COUR,2072386304,13.75,United States
+429,OVH Groupe,OVH.PA,2035872335,10.69,France
+430,Qt Group,QTCOM.HE,2023128128,79.08,Finland
+431,Formosa Sumco Technology,3532.TW,2008290492,5.18,Taiwan
+432,Getty Images,GETY,2007182464,4.99,United States
+433,Shutterstock,SSTK,2004744960,55.62,United States
+434,Zeta Global,ZETA,1983012736,9.34,United States
+435,Q2,QTWO,1974082816,33.92,United States
+436,Cohu,COHU,1952545152,40.8,United States
+437,Exclusive Networks,EXN.PA,1945477424,21.46,France
+438,ZipRecruiter,ZIP,1934624512,18.95,United States
+439,Opera,OPRA,1926216832,21.44,Norway
+440,Silicon Motion,SIMO,1913570048,57.28,Hong Kong
+441,Lumen,LUMN,1898183680,1.89,United States
+442,LiveRamp,RAMP,1895185792,28.39,United States
+443,Criteo,CRTO,1894045568,33.74,France
+444,Payoneer,PAYO,1892090368,5.26,United States
+445,Hims &amp; Hers Health,HIMS,1858810112,8.89,United States
+446,Semtech,SMTC,1834946432,28.69,United States
+447,TANLA,TANLA.NS,1825899083,13.57,India
+448,ForgeRock,FORG,1814830208,20.5,United States
+449,MeridianLink,MLNK,1812097408,22.44,United States
+450,Compass,COMP,1805593344,3.76,United States
+451,Trainline,TRN.L,1782519326,3.67,United Kingdom
+452,Navitas Semiconductor,NVTS,1776049664,10.3,Ireland
+453,Corsair Gaming,CRSR,1769720448,17.34,United States
+454,SolarWinds,SWI,1754726016,10.65,United States
+455,Getnet,GET,1754718720,1.88,Brazil
+456,Cimpress,CMPR,1750322560,64.7,Ireland
+457,Phreesia,PHR,1744463744,32.51,United States
+458,THG (The Hut Group),THG.L,1744112552,1.34,United Kingdom
+459,Harmonic,HLIT,1720434688,15.45,United States
+460,Perion Network,PERI,1693948928,35.84,Israel
+461,Bytes Technology,BYIT.L,1693567298,6.94,United Kingdom
+462,PROG Holdings,PRG,1690263040,36.16,United States
+463,PDF Solutions,PDFS,1688212480,44.6,United States
+464,Asseco,ACP.WA,1675556835,20.19,Poland
+465,Lemonade,LMND,1673336192,24.08,United States
+466,UCT (Ultra Clean Holdings),UCTT,1668591360,37.33,United States
+467,CSG International,CSGS,1667805568,52.55,United States
+468,Udemy,UDMY,1665896448,11.35,United States
+469,Agilysys,AGYS,1665236480,65.63,United States
+470,Redfin,RDFN,1659858816,14.98,United States
+471,Photronics,PLAB,1649855232,26.39,United States
+472,Bukalapak.com,BUKA.JK,1634346926,0.02,Indonesia
+473,ePlus,PLUS,1633443584,60.23,United States
+474,Genius Sports,GENI,1599881472,7.69,United Kingdom
+475,PROS,PRO,1598197632,34.71,United States
+476,E2open,ETWO,1573623680,5.19,United States
+477,Alkami Technology,ALKT,1552628480,16.64,United States
+478,Pagaya Technologies,PGY,1537647744,2.18,Israel
+479,Sapiens,SPNS,1516282368,27.49,Israel
+480,Sumo Logic,SUMO,1495259648,12.04,United States
+481,X-FAB,XFAB.PA,1485336938,11.37,Belgium
+482,Hesai Group,HSAI,1483823616,11.82,China
+483,Digi International,DGII,1482886528,41.34,United States
+484,Zuora,ZUO,1474537856,10.95,United States
+485,Allscripts,MDRX,1473138688,13.32,United States
+486,Semrush,SEMR,1472882048,10.37,United States
+487,Stratasys,SSYS,1466126208,21.27,Israel
+488,secunet,YSN.F,1463434356,225.1,Germany
+489,Cellebrite,CLBT,1452387456,7.46,Israel
+490,Donnelley Financial Solutions,DFIN,1446044288,48.47,United States
+491,VIZIO,VZIO,1444514944,7.5,United States
+492,Overstock.com,OSTK,1443761536,31.94,United States
+493,Momentive Global,MNTV,1424020480,9.45,United States
+494,Revolve,RVLV,1413680128,19.26,United States
+495,Aehr Test Systems,AEHR,1402457600,49.49,United States
+496,Mixi,2121.T,1396128091,19.13,Japan
+497,DeNA,2432.T,1395819876,12.54,Japan
+498,Model N,MODN,1378197888,35.59,United States
+499,Sabre,SABR,1373990912,3.89,United States
+500,Veeco,VECO,1371932288,26.54,United States
+501,Nagarro,NA9.DE,1361678371,98.84,Germany
+502,Amplitude,AMPL,1352942592,11.87,United States
+503,Hypoport,HYQ.F,1334822323,198.02,Germany
+504,AT&amp;S Austria Technologie &amp; Systemtechnik,ATS.VI,1329922959,34.23,Austria
+505,indie Semiconductor,INDI,1322945664,9.34,United States
+506,Enghouse Systems,ENGH.TO,1322213700,23.92,Canada
+507,Kontron AG,KTN.F,1320238635,20.75,Austria
+508,Everbridge,EVBG,1313499136,32.12,United States
+509,Spirent,SPT.L,1307168712,2.2,United Kingdom
+510,SMART Global Holdings,SGH,1301765376,26,United States
+511,3D Systems,DDD,1289393664,9.76,United States
+512,Sterling Check,STER,1280275840,13.06,United States
+513,Himax,HIMX,1280096000,7.34,Taiwan
+514,AMTD Digital,HKD,1269280256,6.63,Hong Kong
+515,Docebo,DCBO,1251265280,37.99,Canada
+516,Yext,YEXT,1227887104,9.9,United States
+517,Nexters,GDEV,1207048960,5.96,Cyprus
+518,AvePoint,AVPT,1197920512,6.11,United States
+519,stem,STEM,1192133504,7.34,United States
+520,Fiverr,FVRR,1182022144,30.92,Israel
+521,Chegg,CHGG,1178294528,9.59,United States
+522,Cipher Mining,CIFR,1174987264,4.72,United States
+523,LendingClub,LC,1168605824,10.78,United States
+524,Nextdoor,KIND,1146199552,3.06,United States
+525,GungHo Online Entertainment,3765.T,1144451500,19.11,Japan
+526,Avid Technology,AVID,1125359488,25.63,United States
+527,Olo,OLO,1088539136,6.72,United States
+528,Ichor Systems,ICHR,1087682176,37.03,United States
+529,Terveystalo,TTALO.HE,1086488092,8.59,Finland
+530,Digital Turbine,APPS,1082843008,10.83,United States
+531,Cerence,CRNC,1070206592,26.55,United States
+532,TomTom,TOM2.AS,1055281664,8.17,Netherlands
+533,Truecaller,TRUE-B.ST,1050043112,2.93,Sweden
+534,ANI Pharmaceuticals,ANIP,1048673920,51.5,United States
+535,A10 Networks,ATEN,1048123712,14.17,United States
+536,SIGNA Sports United,SSU,1046499776,2.68,Germany
+537,TechTarget,TTGT,1034462080,35.67,United States
+538,Arlo Technologies,ARLO,1033221440,11.25,United States
+539,VTEX,VTEX,1031159168,5.49,United Kingdom
+540,Matterport,MTTR,1029620672,3.48,United States
+541,Taboola.com,TBLA,1027937856,3.45,United States
+542,Grindr,GRND,1006562496,5.79,United States
+543,Pushpay Holdings,PPH.NZ,1001341632,0.87,New Zealand
+544,Mensch und Maschine,MUM.F,998072004,59.55,Germany
+545,Exscientia,EXAI,987052608,7.99,United Kingdom
+546,PubMatic,PUBM,986814400,19,United States
+547,Simulations Plus,SLP,958678336,48.11,United States
+548,MapmyIndia,MAPMYINDIA.NS,950334000,17.85,India
+549,Wirtualna Polska (WP Holding),WPL.WA,935938405,31.95,Poland
+550,PAR Technology,PAR,932759232,33.74,United States
+551,Protolabs,PRLB,918666688,35.06,United States
+552,LiveChat Software,LVC.WA,918462887,35.67,Poland
+553,AST SpaceMobile,ASTS,916550848,4.1,United States
+554,Rover,ROVR,913731200,4.96,United States
+555,Lightwave Logic,LWLG,907279232,7.93,United States
+556,EaseMyTrip,EASEMYTRIP.NS,894583910,0.51,India
+557,Alpha &amp; Omega Semiconductor,AOSL,894485568,32.54,United States
+558,Locaweb,LWSA3.SA,876152056,1.49,Brazil
+559,CI&amp;T,CINT,872347840,6.68,Brazil
+560,23andMe,ME,867159424,1.88,United States
+561,tuya,TUYA,867157504,1.5,China
+562,Ebix,EBIX,866200832,27.76,United States
+563,Applied Blockchain,APLD,860848768,8.4,United States
+564,GB Group (GBG),GBG.L,855887881,3.39,United Kingdom
+565,Hut 8 Mining,HUT,852184640,3.82,Canada
+566,Thryv,THRY,850113536,24.85,United States
+567,ChipMOS Technologies,IMOS,847234560,23.3,Taiwan
+568,Snap One,SNPO,843799808,11.01,United States
+569,NerdWallet,NRDS,842003520,10.72,United States
+570,Riskified,RSKD,837831488,4.76,Israel
+571,i3 Verticals,IIIV,825594176,24.61,United States
+572,Mastek,MASTEK.NS,823824776,26.86,India
+573,Grid Dynamics,GDYN,823115840,10.99,United States
+574,Yalla Group,YALA,806193280,5.16,United Arab Emirates
+575,u-blox,UBXN.SW,803368673,110.75,Switzerland
+576,TeraWulf,WULF,801480960,3.78,United States
+577,Nano Dimension,NNDM,797595776,3.15,United States
+578,Couchbase,BASE,793640448,16.3,United States
+579,ACM Research,ACMR,789771712,13.21,United States
+580,KFin Technologies,KFINTECH.NS,787794443,4.64,India
+581,CleanSpark,CLSK,785428352,6.97,United States
+582,SoundHound AI,SOUN,782611200,3.6,United States
+583,Conduent,CNDT,779841536,3.57,United States
+584,BigCommerce,BIGC,779040640,10.41,United States
+585,Gree,3632.T,774628172,4.47,Japan
+586,Repay Holdings,RPAY,774426624,8.35,United States
+587,WalkMe,WKME,772158656,8.75,Israel
+588,Huya,HUYA,758090368,3.16,China
+589,SmartRent,SMRT,757944192,3.8,United States
+590,Karooooo,KARO,755206848,24.4,Singapore
+591,Paysafe,PSFE,739492672,12.07,United States
+592,Zhihu,ZH,735501824,1.14,China
+593,Microvision,MVIS,721970880,4.09,United States
+594,Weave Communications,WEAV,721255104,10.81,United States
+595,Nerdy,NRDY,713019392,4.39,United States
+596,New Work,NWO.F,700312374,124.6,Germany
+597,PlayWay,PLW.WA,677779020,101.43,Poland
+598,nLIGHT,LASR,677214848,14.77,United States
+599,Consensus Cloud Solutions,CCSI,675900480,34.38,United States
+600,American Well,AMWL,652062016,2.27,United States
+601,Team17,TM17.L,648755423,4.08,United Kingdom
+602,Expensify,EXFY,646824704,7.76,United States
+603,Allied Motion Technologies,AMOT,645249344,39.54,United States
+604,Secureworks,SCWX,644353408,7.52,United States
+605,CEVA,CEVA,641768896,27.08,United States
+606,Domo,DOMO,638757248,17.45,United States
+607,Neowiz Games,095660.KQ,629189635,29.73,South Korea
+608,Playstudios,MYPS,624730944,4.79,United States
+609,Rackspace Technology,RXT,621581248,2.89,United States
+610,Vimeo,VMEO,618822784,3.95,United States
+611,Digimarc,DMRC,609982592,29.94,United States
+612,Absolute Software,ABST,609819840,11.48,Canada
+613,TuSimple,TSP,584583680,2.59,United States
+614,Pearl Abyss,263750.KQ,583879008,44.84,South Korea
+615,MediaAlpha,MAX,583337984,9.69,United States
+616,COLOPL,3668.T,581375967,4.53,Japan
+617,CS Disco,LAW,578424640,9.44,United States
+618,Perfect Corp.,PERF,573592256,4.8501,Taiwan
+619,Cantaloupe,CTLP,573547392,7.88,United States
+620,Similarweb,SMWB,569596672,7.08,Israel
+621,8x8,EGHT,566517696,4.67,United States
+622,Youdao,DAO,563931584,4.54,China
+623,System1,SST,563863232,4.11,United States
+624,Mondee,MOND,563590336,6.71,United States
+625,Xperi,XPER,559531584,13.16,United States
+626,OneSpan,OSPN,557295488,13.95,United States
+627,Ituran,ITRN,554190272,27.56,Israel
+628,Canaan,CAN,550347008,2.92,China
+629,Materialise NV,MTLS,547204544,9.12,Belgium
+630,Com2uS,078340.KQ,546186776,43.92,South Korea
+631,Gravity Co.,GRVY,542048896,78.005,South Korea
+632,Newegg,NEGG,540195392,1.43,United States
+633,Nazara Technologies,NAZARA.NS,532187833,8.04,India
+634,Avalon Technologies,AVALON.NS,508654600,7.79,India
+635,Liquidity Services,LQDT,507744032,16.55,United States
+636,Qudian,QD,506022784,2.25,China
+637,QuinStreet,QNST,501671104,9.27,United States
+638,Infibeam Avenues,INFIBEAM.NS,495644443,0.19,India
+639,Wemade,112040.KQ,495140983,30.19,South Korea
+640,UP Fintech (Tiger Brokers),TIGR,494408576,3.19,China
+641,trivago,TRVG,489857952,1.43,Germany
+642,Stitch Fix,SFIX,488060416,4.29,United States
+643,HIVE Blockchain Technologies,HIVE,487884032,5.78,Canada
+644,BrainChip,BRN.AX,482716269,0.25,Australia
+645,Velo3D,VLD,479342464,2.49,United States
+646,Troops,TROO,477500448,4.6999,Hong Kong
+647,Forge Global,FRGE,474268128,2.64,United States
+648,Rimini Street,RMNI,470377344,5.16,United States
+649,Mitek Systems,MITK,466463360,10.44,United States
+650,Despegar,DESP,461078528,6.93,Argentina
+651,Innoviz,INVZ,460768384,3.38,Israel
+652,Bitfarms,BITF,458938784,1.85,Canada
+653,DoubleDown Interactive,DDI,454652448,9.175,United States
+654,eMudhra,EMUDHRA.NS,453765713,5.8,India
+655,Jumia,JMIA,450759680,4.48,Germany
+656,NETGEAR,NTGR,426248576,14.67,United States
+657,MoneyLion,ML,425473760,12.4,United States
+658,SkyWater Technology,SKYT,420258496,9.45,United States
+659,SciPlay,SCPL,419964224,19.77,United States
+660,Trustpilot Group,TRST.L,418853710,1,Denmark
+661,Iris Energy,IREN,412371744,7.5,Australia
+662,11 bit studios,11B.WA,405613883,170.42,Poland
+663,ON24,ONTF,398102144,8.68,United States
+664,LivePerson,LPSN,397981568,5.04,United States
+665,Hippo,HIPO,397829792,17.1,United States
+666,Magnachip,MX,393878464,9.28,Luxembourg
+667,Unisys,UIS,391834784,5.74,United States
+668,Intchains Group,ICG,388727904,6.4855,China
+669,Blend Labs,BLND,380669568,1.39,United States
+670,D-Wave Quantum,QBTS,372564416,2.91,Canada
+671,OPTiM,3694.T,372503043,6.77,Japan
+672,Xiao-I,AIXI,371041024,5.15,China
+673,Computer Programs and Systems,CPSI,370053408,25.29,United States
+674,Nucleus Software Exports,NUCLEUS.NS,367933110,13.73,India
+675,Sohu.com,SOHU,367399200,10.89,China
+676,GigaCloud Technology,GCT,362775680,8.85,China
+677,2U,TWOU,361083072,4.49,United States
+678,American Software,AMSWA,358756352,10.57,United States
+679,People Can Fly,PCF.WA,356884518,10.68,Poland
+680,MSTC Limited,MSTCLTD.NS,353879838,5.03,India
+681,Latch,LTCH,348716000,2,United States
+682,Vuzix,VUZI,347072832,5.49,United States
+683,Cognyte Software,CGNT,342986112,4.97,Israel
+684,Bit Digital,BTBT,341696960,4.14,United States
+685,Agora.io,API,341117056,3.29,China
+686,Berkshire Grey,BGRY,340688576,1.4,United States
+687,MYT Netherlands Parent (Mytheresa),MYTE,338676000,3.99,Germany
+688,LendingTree,TREE,335549088,25.99,United States
+689,AudioCodes,AUDC,333855808,10.35,Israel
+690,Webzen,069080.KQ,327809820,10.47,South Korea
+691,NextNav,NN,325896000,3,United States
+692,Tucows,TCX,324833696,29.99,Canada
+693,Vacasa,VCSA,320229696,0.7,United States
+694,Faro Technologies,FARO,311506592,16.48,United States
+695,Priority Technology Holdings,PRTH,307514304,4.02,United States
+696,Red Violet,RDVT,304115040,21.6,United States
+697,ThredUp,TDUP,303028736,3.01,United States
+698,Frontier Developments,FDEV.L,300223339,7.51,United Kingdom
+699,1-800-PetMeds,PETS,298120064,14.08,United States
+700,Digital Bros,DIB.MI,296549935,15.6,Italy
+701,Viant Technology,DSP,296440224,4.77,United States
+702,BigBear.ai,BBAI,295778144,2.07,United States
+703,ShotSpotter,SSTI,292785120,23.91,United States
+704,Asure Software,ASUR,292434144,14.18,United States
+705,Marvelous,7844.T,290836467,4.81,Japan
+706,Focus Entertainment,ALFOC.PA,290297061,47.11,France
+707,Aeva Technologies,AEVA,288540736,1.29,United States
+708,Kaltura,KLTR,285111456,2.07,United States
+709,BlackSky Technology,BKSY,280059328,2.01,United States
+710,Markforged,MKFG,278797120,1.42,United States
+711,SOPHiA GENETICS,SOPH,274669888,4.27,Switzerland
+712,LiveVox,LVOX,273218400,2.78,United States
+713,Comtech Telecommunications,CMTL,271011360,9.54,United States
+714,Cigniti Technologies,CIGNITITEC.NS,270353453,9.92,India
+715,Outbrain,OB,269060064,5.26,United States
+716,The RealReal,REAL,267536064,2.65,United States
+717,Rigetti Computing,RGTI,267435376,2.06,United States
+718,Skillz,SKLZ,266675232,12.6,United States
+719,CarParts.com,PRTS,266442800,4.73,United States
+720,"111, Inc.",YI,262898720,3.13,China
+721,Arteris,AIP,259253296,7.33,United States
+722,Valens Semiconductor,VLN,258027840,2.52,Israel
+723,The Original BARK Company,BARK,255050496,1.43,United States
+724,Ouster,OUST,254235632,6.55,United States
+725,Baozun,BZUN,250956176,4.23,China
+726,Accelya,ACCELYA.NS,249103819,16.69,India
+727,Silicom,SILC,248969280,36.85,Israel
+728,Appen,APX.AX,248689769,1.55,Australia
+729,OptimizeRx,OPRX,248522928,14.51,United States
+730,Skillsoft,SKIL,245023040,1.49,United States
+731,Lesaka Technologies,LSAK,238515952,3.86,South Africa
+732,Cian,CIAN,237563120,3.4,Russia
+733,Absci,ABSI,235883536,2.4,United States
+734,Tingo Group,TIO,234572896,1.43,United States
+735,Starbox Group,STBX,233812512,4.3,Malaysia
+736,CI Games,CI7.F,233033510,1.26,Poland
+737,"PLAID,Inc.",4165.T,231406594,5.91,Japan
+738,eGain,EGAN,229774048,7.21,United States
+739,UNITED,2497.T,229764685,6.03,Japan
+740,Tabula Rasa HealthCare,TRHC,229578624,8.55,United States
+741,Groupon,GRPN,227242016,7.38,United States
+742,TrueCar,TRUE,222656240,2.39,United States
+743,Spok Holdings,SPOK,222037936,11.13,United States
+744,Arbe Robotics,ARBE,221422608,2.86,Israel
+745,eHealth,EHTH,221398896,7.99,United States
+746,Talkspace,TALK,217667808,1.33,United States
+747,ContextLogic (wish.com),WISH,217260080,9.22,United States
+748,Fabasoft,FAA.DE,216730875,19.7,Austria
+749,Atomera,ATOM,215953200,8.68,United States
+750,Bigtincan,BTH.AX,202470306,0.33,Australia
+751,Presto Automation,PRST,201308720,3.57,United States
+752,Rekor Systems,REKR,197996544,2.97,United States
+753,Identiv,INVE,197349248,8.59,United States
+754,Serverworks,4434.T,196053927,25.15,Japan
+755,gumi,3903.T,192128369,4.9,Japan
+756,Pexip,PEXIP.OL,187819517,1.83,Norway
+757,Nacon,NACON.PA,187583331,2.16,France
+758,Transphorm,TGAN,185247184,3.12,United States
+759,Ceragon Networks,CRNT,183896752,2.18,Israel
+760,WM Technology,MAPS,180024992,1,United States
+761,Park City Group,PCYG,178786464,9.74,United States
+762,Backblaze,BLZE,178210320,5.27,United States
+763,Arqit Quantum,ARQQ,176223040,1.29,United Kingdom
+764,Semantix,STIX,171426688,2.18,Brazil
+765,kneat.com,FOBK.F,171155355,2.16,Ireland
+766,Iteris,ITI,169851904,3.99,United States
+767,Lantronix,LTRX,168449696,4.6,United States
+768,Telos,TLS,167922608,2.42,United States
+769,RumbleON,RMBL,166502416,10.07,United States
+770,SOS Limited,SOS,164091184,6.36,China
+771,Bakkt Holdings,BKKT,163594512,1.83,United States
+772,MiX Telematics,MIXT,162401296,6.7,United States
+773,OneConnect,OCFT,157947584,4.05,China
+774,iHuman,IH,156417648,2.96,China
+775,Gorilla Technology,GRRR,154131424,2.28,Taiwan
+776,Mynaric,MYNA,153046800,6.75,Germany
+777,Veritone,VERI,152822928,4.15,United States
+778,Koh Young Technology,098460.KQ,151641871,11.56,South Korea
+779,Porch Group,PRCH,149910384,1.49,United States
+780,SYLA Technologies,SYT,143932896,6.01,Japan
+781,Sequans Communications,SQNS,143456320,2.45,France
+782,O2Micro,OIIM,143016304,4.9,Cayman Islands
+783,Mister Spex,MRX.F,137924676,4.07,Germany
+784,Drecom,3793.T,135492568,4.75,Japan
+785,Méliuz,CASH3.SA,134599252,1.56,Brazil
+786,Upland Software,UPLD,133656920,4.12,United States
+787,Userjoy Technology,3546.TWO,133508464,2.77,Taiwan
+788,Allied Tecnologia,ALLD3.SA,132275038,1.42,Brazil
+789,StarTek,SRT,131859152,3.27,United States
+790,AdTheorent,ADTH,130837352,1.49,United States
+791,Sylogist,SYZ.TO,128714110,5.44,Canada
+792,Starbreeze,STAR-B.ST,128109510,0.1,Sweden
+793,Xunlei,XNET,127418624,1.96,China
+794,Scienjoy,SJ,126280920,3.11,China
+795,ZeroFox,ZFOX,125782776,1.06,United States
+796,E INC (E Automotive),EINC.TO,122916405,2.32,Canada
+797,KORE,KORE,118558160,1.37,United States
+798,Cepton,CPTN,115529104,0.7001,United States
+799,Quicklogic,QUIK,112938376,8.25,United States
+800,Focus Universal,FCUV,110197064,1.7,United States
+801,Quick Heal,QUICKHEAL.NS,107964389,2.03,India
+802,Paysign,PAYS,107167640,2.05,United States
+803,Compugen,CGEN,106548256,1.23,Israel
+804,Spire Global,SPIR,104961448,0.713,United States
+805,Movella,MVLA,104869240,2.06,United States
+806,Doma,DOMA,104343944,7.81,United States
+807,PowerFleet,PWFL,102884368,2.83,United States
+808,Rubicon Technologies,RBT,102410776,0.535,United States
+809,Geospace Technologies,GEOS,100432688,7.625,United States
+810,Quantum,QMCO,100257192,1.07,United States
+811,Pixelworks,PXLW,99181064,1.78,United States
+812,Advanced Human Imaging,AHI,94946104,3.39,Australia
+813,Nano Labs,NA,94214632,1.69,China
+814,Akili,AKLI,93988536,1.13,United States
+815,Allot,ALLT,93189248,2.49,Israel
+816,Synchronoss,SNCR,92555696,0.99,United States
+817,KLab,3656.T,91809786,2.27,Japan
+818,Wag! Group,PET,84350024,2.25,United States
+819,Quantum Computing,QUBT,82426216,1.34,United States
+820,Where Food Comes From,WFCF,79397040,14.04,United States
+821,Smith Micro Software,SMSI,78299216,1.23,United States
+822,Argo Blockchain,ARBK,77885472,1.63,United Kingdom
+823,Streamline Health Solutions,STRM,77803248,1.29,United States
+824,Cheetah Mobile,CMCM,73434000,2.5,China
+825,SurgePays,SURG,72650552,5.13,United States
+826,3i Infotech,3IINFOLTD.NS,70543478,0.42,India
+827,Embark Technology,EMBK,68941440,2.86,United States
+828,ATARI,ALATA.PA,68182336,0.15,France
+829,Natural Health Trends,NHTC,67712312,5.79,United States
+830,Dave Inc.,DAVE,65590560,5.6,United States
+831,Viomi Technology,VIOT,62190360,0.9,China
+832,Cazoo,CZOO,61083432,1.58,United Kingdom
+833,Red Cat Holdings,RCAT,58265140,1.07,United States
+834,The Glimpse Group,VRAR,56816268,3.79,United States
+835,Duos Technologies Group,DUOT,53379272,6.98,United States
+836,Aterian,ATER,52272972,0.6404,United States
+837,Intellicheck,IDN,51983728,2.65,United States
+838,VIA optronics AG,VIAO,51557880,2.2,Germany
+839,HUB Cyber Security,HUBC,50885525,0.4079,Israel
+840,geechs,7060.T,50480686,5.04,Japan
+841,Greenidge Generation Holdings,GREE,48735448,8.15,United States
+842,ReWalk Robotics,RWLK,47352828,0.7949,Israel
+843,Mobile Factory,3912.T,46879026,5.95,Japan
+844,Usio,USIO,46688400,1.76,United States
+845,BIT Mining (500.com),BTCM,46407760,4.22,China
+846,Stronghold Digital Mining,SDIG,46202348,8.4,United States
+847,Otonomo Technologies,OTMO,46176528,0.319,Israel
+848,BitNile,NILE,44776812,0.1225,United States
+849,enish,3667.T,41590809,2.41,Japan
+850,Nippon Ichi Software,3851.T,41350297,8.2,Japan
+851,Phunware,PHUN,41216840,0.392,United States
+852,Shift Technologies,SFT,40205780,2.33,United States
+853,Tose Software,4728.T,40124621,5.29,Japan
+854,Vinco Ventures,BBIG,39336216,2.77,United States
+855,AEye,LIDR,39270024,0.222,United States
+856,Sarcos Technology and Robotics,STRC,39089384,1.52,United States
+857,AgileThought,AGIL,38616260,0.7397,United States
+858,Silicon Studio,3907.T,36758981,12.47,Japan
+859,The9,NCTY,36412516,1.16,China
+860,Helbiz,HLBZ,36295920,0.1167,United States
+861,CISO Global (Cerberus Cyber Sentinel),CISO,35678212,0.198,United States
+862,Beamr Imaging,BMR,35041488,2.72,Israel
+863,RealNetworks,RNWK,34821656,0.73,United States
+864,Exela Technologies,XELA,34332180,5.23,United States
+865,AppTech Payments,APCX,33557220,1.8,United States
+866,Bird Global,BRDS,33207198,2.54,United States
+867,CalAmp,CAMP,31339472,0.8341,United States
+868,Appirits,4174.T,31223670,7.61,Japan
+869,Satixfy Communications,SATX,31042644,0.3844,Israel
+870,Foresight Autonomous Holdings,FRSX,31006082,2.88,Israel
+871,Renren,RENN,30901860,1.65,China
+872,Cyngn,CYN,30785770,0.9101,United States
+873,UpHealth,UPH,29193732,1.72,United States
+874,Shapeways,SHPW,28482182,4.48,United States
+875,Sphere 3D,ANY,28257536,2.56,Canada
+876,Guardforce AI,GFAI,28152370,4.09,Singapore
+877,AgEagle Aerial Systems,UAVS,27174448,0.2431,United States
+878,Core Scientific,CORZ,26534932,0.0751,United States
+879,Rockley Photonics,RKLY,25540714,0.1924,United Kingdom
+880,Onion Global,OG,25018084,0.238,China
+881,Yunji,YJ,24826320,1.23,China
+882,Avaya Holdings,AVYA,23908978,0.2753,United States
+883,NJ Holdings,9421.T,22444404,4.24,Japan
+884,Energous,WATT,21953578,0.2411,United States
+885,Ekso Bionics,EKSO,21846768,1.36,United States
+886,WonderPlanet,4199.T,21192008,8.45,Japan
+887,SeaChange,SEAC,20932750,8.1,United States
+888,Castellum,CTM,20716688,0.4293,United States
+889,Diebold Nixdorf,DBD,20000000,0.25,United States
+890,American Virtual Cloud,AVCT,19417060,0.598,United States
+891,Super League Gaming,SLGG,17014586,0.34,United States
+892,Pintec Technology,PT,16585919,1.04,China
+893,IronNet,IRNT,16565056,0.1482,United States
+894,OLB Group,OLB,16537291,1.0867,United States
+895,Remark Holdings,MARK,15501858,1.02,United States
+896,Treasure Global,TGL,14102975,0.8025,Malaysia
+897,Babylon Holdings,BBLN,14098001,0.5504,United Kingdom
+898,Marpai,MRAI,12547898,1.73,United States
+899,ADVFN,AFN.L,12469962,0.23,United Kingdom
+900,Cyxtera Technologies,CYXT,11720604,0.065,United States
+901,Jump Networks,JUMPNET.NS,11669324,0.12,India
+902,Mobilicom,MOB,11618448,2.4,Australia
+903,Marin Software,MRIN,11556227,0.67,United States
+904,Nogin,NOGN,11535176,1.03,United States
+905,Rail Vision,RVSN,11201556,0.467,Israel
+906,Socket Mobile,SCKT,10751617,1.49,United States
+907,WeTrade Group,WETG,9605219,9.11,China
+908,Blackboxstocks,BLBX,9531114,2.92,United States
+909,Netcapital,NCPL,8939420,1.17,United States
+910,SaverOne 2014,SVRE,7930062,1.4,Israel
+911,BIO-key International,BKYI,7689558,0.774,United States
+912,"Fr8Tech 
+ (Freight Technologies)",FRGT,7476373,0.783,United States
+913,Cemtrex,CETX,7084288,8,United States
+914,Swvl Holdings,SWVL,6649771,1.2303,United Arab Emirates
+915,Inpixon,INPX,6367888,0.16,United States
+916,Tricida,TCDA,6267056,0.108,United States
+917,Trust Stamp,IDAI,6262628,0.8411,United States
+918,Kidpik,PIK,5748816,0.7399,United States
+919,IMTE,IMTE,5565018,0.269,Australia
+920,Spark Networks,LOV,5374357,0.2047,Germany
+921,Verb Technology,VERB,5190300,1.2,United States
+922,Zoomd Technologies,ZOMD.V,5129305,0.05,Canada
+923,Onfolio Holdings,ONFO,5110200,1,United States
+924,Wejo Group,WEJO,4945545,0.045,United Kingdom
+925,Versus Systems,VS,4865644,0.4465,Canada
+926,Missfresh,MF,4399791,0.56,China
+927,Pear Therapeutics,PEAR,4167979,0.0292,United States
+928,Cryptyde,TYDE,3801250,0.0571,United States
+929,Oblong,OBLG,3601752,1.32,United States
+930,Grom Social Enterprises,GROM,3130414,0.3481,United States
+931,G Medical Innovations,GMVD,2603033,0.3498,Israel
+932,Quanergy Systems,QNGY,1196165,0.074,United States
+933,Triterras,TRIRF,38262,0.0005,Singapore
+934,Pareteum Corporation,TEUM,14270,0,United States
+935,Winc,WBEVQ,2659,0.0002,United States
+936,Ozon,OZON.ME,0,0,United States
