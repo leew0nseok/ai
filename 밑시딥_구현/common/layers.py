@@ -54,7 +54,7 @@ class Affine:
         x = x.reshape(x.shape[0], -1)
         self.x = x
 
-        out = np.dot(self.x, self.W) + self.b
+        out = np.dot(x, self.W) + self.b
 
         return out
 
